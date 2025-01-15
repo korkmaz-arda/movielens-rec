@@ -1,2 +1,2 @@
 # movielens-rec
-Building recommender systems using MovieLens datasets
+Building recommender systems using MovieLens datasets.
